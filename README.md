@@ -57,6 +57,7 @@ print ( "Antonyms : " ,set(antonyms) )
 
 <H3>Output</H3>
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/a193c4e9-e8f5-428c-8f0b-b6daf03f9051" />
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/f019e194-23c3-4306-aa2e-9e7aada1b929" />
 
 
 <H3>Result:</H3>
